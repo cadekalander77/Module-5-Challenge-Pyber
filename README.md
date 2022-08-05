@@ -20,7 +20,7 @@ As part of the analysis, the following multiple line chart was created to help u
 In this  period of analysis of the  total fares for each city type, it is easy to see that the total fares for city types are the highest in all weeks and the lowest in rural areas. You can also see that the third week of February is the highest total fare of any city type that is in increasing demand at that time. Urban areas also seem to generate a lot of sales in the first and third weeks of March. From early January to the end of April 2019, all city-type rates will be reduced.
 The "Toal Fares by City Type" graph shows the differences in weekly total fares from January to April. Urban cities have the highest total fares ranging from $1,661.68 to $2,470.93 as shown by the yellow line. The red line shows that the total fares in suburban cities which ranges from $721.60 to $1,412.74 on a weekly basis. The lowest total fares is depicted by the blue line for rural cities and ranges from $67.65 to $501.24. In late February, the total fares in all types of cities seem to be at their highest. The relationship between total fares and date is depicted in the graph below:
 
-![Image](PyBerChart.png?raw=true)
+![Image](PyBer_Chart.png?raw=true)
 
 
 
