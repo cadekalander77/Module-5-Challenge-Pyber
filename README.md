@@ -3,7 +3,7 @@ PyBer Challenge Module 5
 
 ## Overview of the Project
 
-The project's goal was to analyze data for a ridesharing company called PyBer in order to calculate metrics related to total weekly fares for each city type in which the rideshare company operates. For each city type, datasets containing ride and city data were used to calculate metrics such as total rides, total drivers, total fares, average fare per ride and driver. The data sets were also used to generate a new data frame that calculated the average weekly fare for each city type from January 1st, 2019 to April 29th, 2019.The analysis dataframe was used to generate a multiple-line graph that depicted the total weekly fares for each city type over the specified time period. The metrics and visualization were then analyzed to provide recommendations to Pyber's CEO to address any disparities between city types.
+The project's goal was to analyze data for a ridesharing company called PyBer, in order to calculate metrics related to total weekly fares for each city type in which the rideshare company operates. For each city type, datasets containing ride and city data were used to calculate metrics such as total rides, total drivers, total fares, average fare per ride and driver. The data sets were also used to generate a new data frame that calculated the average weekly fare for each city type from January 1st, 2019 to April 29th, 2019.The analysis dataframe was used to generate a multiple-line graph that depicted the total weekly fares for each city type over the specified time period. The metrics and visualization were then analyzed to provide recommendations to Pyber's CEO to address any disparities between city types.
 
 ## Results
 
